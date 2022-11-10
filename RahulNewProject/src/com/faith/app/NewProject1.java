@@ -6,6 +6,7 @@ public class NewProject1 {
 		System.out.println("welcome to the world of GIT");
 		System.out.println("yellathukum kaaranam sofi");
 		System.out.println("Thank you");
+		System.out.println("akash oru vadakan");
 
 	}
 
