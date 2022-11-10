@@ -7,6 +7,9 @@ public class NewProject1 {
 		System.out.println("yellathukum kaaranam sofi");
 		System.out.println("Thank you");
 		System.out.println("akash oru vadakan");
+		System.out.println("ajay smart guy");
+		System.out.println("sofi sahaya");
+		System.out.println("eeee");
 
 	}
 
